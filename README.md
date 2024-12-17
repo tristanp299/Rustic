@@ -1,0 +1,2 @@
+# Rustic
+rust repo
